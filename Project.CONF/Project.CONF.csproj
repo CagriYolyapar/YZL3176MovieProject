@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Deneme\BaseConfiguration.cs" />
     <Compile Include="Deneme\Denemeb.cs" />
     <Compile Include="Deneme\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
