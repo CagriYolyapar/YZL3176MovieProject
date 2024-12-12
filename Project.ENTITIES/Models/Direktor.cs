@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Project.ENTITIES.Models
 {
     public class Direktor : BaseEntity
+    { //merhaba
     {
         //Merhaba..Nasılsın?
         public string FirstName { get; set; }
