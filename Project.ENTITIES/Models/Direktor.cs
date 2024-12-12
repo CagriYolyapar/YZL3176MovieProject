@@ -8,6 +8,7 @@ namespace Project.ENTITIES.Models
 {
     public class Direktor : BaseEntity
     {
+        //Merhaba..Nasılsın?
         public string FirstName { get; set; }
     }
 }
