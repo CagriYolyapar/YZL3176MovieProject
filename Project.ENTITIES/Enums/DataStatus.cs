@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Project.ENTITIES.Enums
 {
+
+    //Deneme
     public enum DataStatus
     {
         Inserted = 1, 
