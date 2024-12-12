@@ -8,5 +8,6 @@ namespace Project.ENTITIES.Models
 {
     public class Direktor : BaseEntity
     {
+        public string FirstName { get; set; }
     }
 }
